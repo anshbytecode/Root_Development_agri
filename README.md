@@ -1,1 +1,1 @@
-rootdevelopanshagrictrlaltelite.netlify.app
+https://rootdevelopanshagrictrlaltelite.netlify.app/
